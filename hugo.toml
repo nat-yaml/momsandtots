@@ -1,0 +1,4 @@
+baseURL = 'https://nat-yaml.github.io/momsandtots/'
+languageCode = 'en-us'
+title = 'Mom & Tot Resources'
+theme = "hextra"
